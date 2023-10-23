@@ -1,0 +1,19 @@
+Pasos para crear un proyecto de react
+1 Mandamiento - APRENDERSE los comandos para el proyecto (4 - 7)
+
+4 - Mandamiento -(TODO proyecto de react se nombre sin espacion, sin acentos, todo en minúscula y separados SOLAMENTE por un guion medio )
+
+1 - Identificar donde voy a crear un proyecto
+2 - Abrir una terminal de comando en el espacio donde va a crear el proyecto
+	(terminal del editor, CMD, 	PowerShell y ya)
+3 - Tirar los comandos
+3.1 -> npm create vite@latest
+	ejecutor de paquetes
+	npx create-react-app 'nombre-app'
+3.2 -> Dar el  nombre al proyecto
+3.3 -> Seleccionar React
+3.4 -> npm install o npm i
+3.5 -> npm run dev
+
+jsx = xml + js
+	
